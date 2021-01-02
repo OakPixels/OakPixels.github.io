@@ -40,7 +40,7 @@ body {
 /* Start of Landing Page */
 
 .home-inner {
-  background-image: url(../img/landscape.png);
+  background-image: url(../img/landscape2.jpg);
 }
 .caption {
   width: 100%;
@@ -53,7 +53,7 @@ body {
 }
 #logo {
   height: 204px;
-  width: 600px;
+  width: 496px;
   padding-bottom: 1rem;
 }
 .caption h1 {
@@ -220,7 +220,7 @@ hr.socket {
 
 @media (max-width: 767px) {
   #logo {
-    width: 450px;
+    width: 375px;
     height: 150px;
     padding-bottom: 0.5rem;
   }
