@@ -53,7 +53,7 @@ body {
 }
 #logo {
   height: 204px;
-  width: 496px;
+  width: 600px;
   padding-bottom: 1rem;
 }
 .caption h1 {
@@ -220,8 +220,8 @@ hr.socket {
 
 @media (max-width: 767px) {
   #logo {
-    width: 375px;
-    height: 150px;
+    width: 300px;
+    height: 100px;
     padding-bottom: 0.5rem;
   }
   .caption h1 {
